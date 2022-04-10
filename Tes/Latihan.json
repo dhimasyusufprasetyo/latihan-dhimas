@@ -5,33 +5,33 @@
   "testAdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
   "admobAppId": "ca-app-pub-3940256099942544~3347511713",
   "admobBannerID": [
-    "ca-app-pub-3940256099942544/6300978111",
-    "ca-app-pub-3940256099942544/6300978111",
-    "ca-app-pub-3940256099942544/6300978111"
+    "",
+    "",
+    ""
   ],
   "admobInterstitialID": [
-    "ca-app-pub-3940256099942544/1033173712",
-    "ca-app-pub-3940256099942544/1033173712",
-    "ca-app-pub-3940256099942544/1033173712"
+    "",
+    "",
+    ""
   ],
   "admobRewardedID": [
-    "ca-app-pub-3940256099942544/5224354917",
-    "ca-app-pub-3940256099942544/5224354917",
-    "ca-app-pub-3940256099942544/5224354917"
-  ],
-  "unityGameID": "",
-  "unityInterstitialID": [
     "",
+    "",
+    ""
+  ],
+  "unityGameID": "811a4857-6df6-4d96-a24f-dc67fe8fdb05",
+  "unityInterstitialID": [
+    "4407885",
     "",
     ""
   ],
   "unityBannerId": [
-    "",
+    "4407885",
     "",
     ""
   ],
   "unityRewardedID": [
-    "",
+    "4407885",
     "",
     ""
   ]
