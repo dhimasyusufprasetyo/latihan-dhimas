@@ -27,8 +27,8 @@
   ],
   "unityBannerId": [
     "Banner_Android",
-    "",
-    ""
+    "Banner_Android",
+    "Banner_Android"
   ],
   "unityRewardedID": [
     "rewardedVideo",
