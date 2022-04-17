@@ -19,11 +19,11 @@
     "",
     "" 
   ],
-  "unityGameID": "4416083",
+  "unityGameID": "4415809",
   "unityInterstitialID": [
     "Interstitial_Android",
-    "Interstitial_Android",
-    "Interstitial_Android"
+    "inter_2",
+    "inter_3"
   ],
   "unityBannerId": [
     "Banner_Android",
